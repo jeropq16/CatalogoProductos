@@ -1,0 +1,17 @@
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\bin\Debug\net9.0\catalogo.Infrastructure.deps.json
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\bin\Debug\net9.0\catalogo.Infrastructure.runtimeconfig.json
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\bin\Debug\net9.0\catalogo.Infrastructure.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\bin\Debug\net9.0\catalogo.Infrastructure.pdb
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\bin\Debug\net9.0\catalogo.Domain.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\bin\Debug\net9.0\catalogo.Domain.pdb
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.AssemblyInfo.cs
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.09397013.Up2Date
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\refint\catalogo.Infrastructure.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.pdb
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.genruntimeconfig.cache
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\ref\catalogo.Infrastructure.dll

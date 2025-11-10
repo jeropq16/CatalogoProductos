@@ -1,0 +1,11 @@
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\bin\Debug\net9.0\catalogo.Domain.deps.json
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\bin\Debug\net9.0\catalogo.Domain.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\bin\Debug\net9.0\catalogo.Domain.pdb
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.AssemblyInfo.cs
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\refint\catalogo.Domain.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.pdb
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\ref\catalogo.Domain.dll

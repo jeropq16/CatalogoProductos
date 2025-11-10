@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: catalogo.Api/Dockerfile
+    container_name: catalogo_api
+    ports:
+      - "8080:8080"
+    depends_on:
+      - catalogoMysql
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__MySQL=Server=catalogoMysql;Port=3306;Database=catalogoDb;User=admin;Password=123456;SslMode=none;
+      - Jwt__Key=clave_super_secreta_para_jwt_123456
+      - Jwt__Issuer=catalogo-api
+      - Jwt__Audience=catalogo-client
+    networks:
+      - catalogo_net
+
+  catalogoMysql:
+    image: mysql:8.0
+    container_name: catalogoMysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: catalogoDb
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: 123456
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - catalogo_net
+
+  adminer:
+    image: adminer
+    container_name: catalogo_adminer
+    restart: always
+    ports:
+      - "8081:8080"
+    depends_on:
+      - catalogoMysql
+    networks:
+      - catalogo_net
+
+volumes:
+  mysql_data:
+
+networks:
+  catalogo_net:
