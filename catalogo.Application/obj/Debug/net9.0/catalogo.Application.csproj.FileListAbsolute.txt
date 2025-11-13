@@ -13,3 +13,4 @@ C:\Users\Jero\Desktop\Catalogo\catalogo.Application\obj\Debug\net9.0\catalogo.Ap
 C:\Users\Jero\Desktop\Catalogo\catalogo.Application\obj\Debug\net9.0\refint\catalogo.Application.dll
 C:\Users\Jero\Desktop\Catalogo\catalogo.Application\obj\Debug\net9.0\catalogo.Application.pdb
 C:\Users\Jero\Desktop\Catalogo\catalogo.Application\obj\Debug\net9.0\ref\catalogo.Application.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Application\obj\Debug\net9.0\catalogo.Application.sourcelink.json

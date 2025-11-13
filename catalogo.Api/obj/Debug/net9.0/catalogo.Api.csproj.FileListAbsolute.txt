@@ -152,3 +152,4 @@ C:\Users\Jero\Desktop\Catalogo\catalogo.Api\bin\Debug\net9.0\System.IdentityMode
 C:\Users\Jero\Desktop\Catalogo\catalogo.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Jero\Desktop\Catalogo\catalogo.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Jero\Desktop\Catalogo\catalogo.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Api\obj\Debug\net9.0\catalogo.Api.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\refint\c
 C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.pdb
 C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.genruntimeconfig.cache
 C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\ref\catalogo.Infrastructure.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Infrastructure\obj\Debug\net9.0\catalogo.Infrastructure.sourcelink.json

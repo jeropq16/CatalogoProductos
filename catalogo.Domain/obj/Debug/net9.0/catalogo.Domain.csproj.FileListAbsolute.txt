@@ -9,3 +9,4 @@ C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.
 C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\refint\catalogo.Domain.dll
 C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.pdb
 C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\ref\catalogo.Domain.dll
+C:\Users\Jero\Desktop\Catalogo\catalogo.Domain\obj\Debug\net9.0\catalogo.Domain.sourcelink.json
