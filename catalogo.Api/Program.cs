@@ -54,13 +54,10 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.WithOrigins(
-                "http://localhost:5173",     // local
-                "https://tu-frontend-en-produccion.com" // Deploy
-            )
+        policy
             .AllowAnyHeader()
             .AllowAnyMethod()
-            .AllowCredentials();
+            .SetIsOriginAllowed(_ => true); // 🔥 Render lo necesita para OPTIONS
     });
 });
 
@@ -77,8 +74,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapControllers();
 app.UseCors("AllowReactApp");
+app.UseAuthentication();
+app.UseAuthorization();
+app.MapControllers();
+
 
 var summaries = new[]
 {
